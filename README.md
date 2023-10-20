@@ -1,4 +1,6 @@
-# SAP-macro
+# SAP-macro <img src="https://github.com/Karolina-Sas/SAP-macro/assets/68974023/89404143-83cb-4980-abef-ae3f5d212ace" width=5% height=5%> <img src="https://github.com/Karolina-Sas/SAP-macro/assets/68974023/b0bc9210-d470-4eb1-a455-4eaa63da5e91" width=5% height=5%>
+
+
 Macro for downloading customers portofolio linked with power BI dashboard 
 
 ## Project description
