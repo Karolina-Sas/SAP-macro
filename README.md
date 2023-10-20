@@ -8,7 +8,7 @@ This makes it easier to get the data we want, and visualization in the form of d
 
 ## Preparation before use:
 
-Microsoft Excel: Enabling macros
-Visual Basic: Enabling SAP API Navigate to Tools/References and enable SAP GUI Scripting API. If API is not available file with .ocx extension (sapfewse.ocx) from SAP GUI folder has to be opened. 
+:page_with_curl: Microsoft Excel: Enabling macros <br>
+:page_with_curl: Visual Basic: Enabling SAP API Navigate to Tools/References and enable SAP GUI Scripting API. If API is not available file with .ocx extension (sapfewse.ocx) from SAP GUI folder has to be opened. 
 
 #### Software: Power BI,  ERP SAP R/3., Microsoft Excel, Visual Basic Editor 
